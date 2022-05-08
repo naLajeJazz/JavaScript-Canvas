@@ -1,0 +1,44 @@
+body{
+background: #4C4C59;
+}
+#titulo{
+color: white;
+text-align: left;
+background:#35528C;
+margin-top: 32px;
+box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.609);
+border-radius: 6px;
+}
+section{
+background:#232226;
+margin: auto;
+padding: 2%;
+
+box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.609);
+border-radius: 3px;
+cursor: none;
+
+}
+canvas{
+    border: 1px white solid;
+    margin-left: 15%;
+    cursor: none;   
+}
+#cv{
+    border: 1px white solid;
+    margin-left: 25%;
+}
+#bottonLogo{
+color: white;
+text-align: center;
+position: fixed;
+}
+.mark{
+    border: 1px solid red;
+}
+.info{
+    color: red;
+}
+.info2{
+    color: red;
+}
